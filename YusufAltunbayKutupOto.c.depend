@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1705567100 source:c:\users\raltu\desktop\yusufaltunbaykutupoto.c\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
